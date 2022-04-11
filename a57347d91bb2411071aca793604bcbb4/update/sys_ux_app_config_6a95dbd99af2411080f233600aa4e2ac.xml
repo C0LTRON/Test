@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_route_type/>
+        <description>View all incidents by priority and type</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Incident overview Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 01:21:23</sys_created_on>
+        <sys_id>6a95dbd99af2411080f233600aa4e2ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident overview Config</sys_name>
+        <sys_package display_value="Demo" source="x_802505_demo">a57347d91bb2411071aca793604bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">a57347d91bb2411071aca793604bcbb4</sys_scope>
+        <sys_update_name>sys_ux_app_config_6a95dbd99af2411080f233600aa4e2ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 01:21:23</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=6a95dbd99af2411080f233600aa4e2ac"/>
+</record_update>
